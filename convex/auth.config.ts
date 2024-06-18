@@ -1,3 +1,5 @@
+//busy-zebra-2.clerk.accounts.dev
+
 const authConfig = {
     providers: [
       {
